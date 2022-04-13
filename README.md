@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markaaron-hewitt
 - 👀 I’m interested in machine learning, full stack development, learning new stuff
-- 🌱 I’m currently learning AWS, react, express, node.
+- 🌱 I’m currently learning AWS S3/Neptune, react, express, node.
 - 💞️ I’m looking to collaborate on anything exciting!
 - 📫 How to reach me:  markaaron.hewitt@outlook.com
 
